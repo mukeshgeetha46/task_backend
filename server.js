@@ -92,6 +92,6 @@ db.raw('SELECT 1').then(()=>{
 
 
 
-app.listen(5000,()=>{
-    console.log('Server is running on port http://localhost:5000')
+app.listen(8001,()=>{
+    console.log('Server is running on port http://localhost:8001')
 })
